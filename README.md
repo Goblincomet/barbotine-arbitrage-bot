@@ -110,9 +110,9 @@ python run.py delta-neutral 60 750 okx cryptocom huobi BTC/USDT   # run the syst
 
 If you have any questions or you want to discuss of the bot with me, let's talk!
 
-Discord: nelso#1800
+Discord: Lovelycode
 
-Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
+Email: [henryrustom52@gmail.com]
 
 <a name="full-version"/>
  
